@@ -19,5 +19,7 @@
 }
 
 .fc{
-    margin: 50px;
+  width: 400px;
+  margin: auto;
+  justify-content: center;
 }
