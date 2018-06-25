@@ -17,3 +17,7 @@
 .flex-container > div > img {
   width: 300px;
 }
+
+.fc{
+    margin: 50px;
+}
